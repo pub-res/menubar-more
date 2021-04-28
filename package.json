@@ -1,16 +1,16 @@
 {
   "name": "menubar-more",
-  "version": "9.0.5",
+  "version": "9.0.6",
   "author": "Max Ogden",
   "bugs": {
-    "url": "https://github.com/pub-res/menubar-more/issues"
+    "url": "https://github.com/maxogden/menubar/issues"
   },
   "description": "high level way to create menubar desktop applications with electron",
   "files": [
     "/assets",
     "/lib"
   ],
-  "homepage": "https://github.com/pub-res/menubar-more",
+  "homepage": "https://github.com/maxogden/menubar",
   "keywords": [
     "electron",
     "shell",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pub-res/menubar-more.git"
+    "url": "https://github.com/maxogden/menubar.git"
   },
   "scripts": {
     "build": "rimraf lib/ && tsc",
